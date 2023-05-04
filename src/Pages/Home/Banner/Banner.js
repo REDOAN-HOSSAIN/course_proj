@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import chair from '../../../assets/images/chair.png';
 import PrimaryButton from '../../../components/PrimaryButton/PrimaryButton';
 
@@ -10,7 +11,7 @@ const Banner = () => {
                 <div>
                     <h1 className="text-5xl font-bold">Smile With Dentistry!</h1>
                     <p className="py-6">Our dental practitioners aim to give you straighter teeth and a gorgeous smile. From dental implants to teeth whitening, dental veneers to invisible braces, we have in-depth knowledge, offering you the best solutions for the perfect smile you have always wanted.</p>
-                    <PrimaryButton>Getting Started</PrimaryButton>
+                    <PrimaryButton><Link to="/signup">Getting Started</Link></PrimaryButton>
                 </div>
             </div>
         </div>
