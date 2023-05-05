@@ -3,6 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Brief
+ I build this website using mainly React.js library, Tailwind, DaisyUI, Firebase and VS code. 
+•	This website has a Home page and subpages call Appointment, About, Login linked via routing also Signup page.
+•	This website is responsive for different sizes device
+•	It has shared state such as Footer and Navbar 
+•	For accessibility in this website I use alternative text for images, clear and simple language, headings and other structural elements. Overall try to follow GDPR guidelines
+•	I use form with input validation for sign-up and log-in, suppose if user gave don’t give at least one uppercase letter, number and length six then it will not take the input. 
+•	I integrate with an external API (server side of this website: https://doctors-porta.vercel.app) to fetch and display data, also use date selection to filter only that day’s data. 
 
 In the project directory, you can run:
 
