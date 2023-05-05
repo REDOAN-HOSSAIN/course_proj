@@ -1,78 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-Brief
- I build this website using mainly React.js library, Tailwind, DaisyUI, Firebase and VS code. 
-•	This website has a Home page and subpages call Appointment, About, Login linked via routing also Signup page.
-•	This website is responsive for different sizes device
-•	It has shared state such as Footer and Navbar 
-•	For accessibility in this website I use alternative text for images, clear and simple language, headings and other structural elements. Overall try to follow GDPR guidelines
-•	I use form with input validation for sign-up and log-in, suppose if user gave don’t give at least one uppercase letter, number and length six then it will not take the input. 
-•	I integrate with an external API (server side of this website: https://doctors-porta.vercel.app) to fetch and display data, also use date selection to filter only that day’s data. 
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Github repository link: REDOAN-HOSSAIN/course_proj (github.com)
+#Website link: React App (redoan-dentistry.netlify.app)
+#Dentistry a dental clinic website
+This is a dental clinic’s client side website where people can see the services, know about the clinic and book appointment for taking services from Dentistry. When they book appointment they are able to select appointment date, then they will get the available services and spaces for what they want to book appointment through this website. One client can book appointment in same day and for same service just one time. Client need to sign up and then log in to the website.  
+#Brief
+ I build this website using mainly React.js library, Tailwind, Firebase and VS code. 
+	-This website has a Home page and subpages call Appointment, About, Login linked via routing also Signup page.
+	-This website is responsive for different sizes device
+	-It has shared state such as Footer and Navbar 
+	-For accessibility in this website I use alternative text for images, clear and simple language, headings and other structural elements. Overall try to follow GDPR guidelines
+	-I use form with input validation for sign-up and log-in, suppose if user gave don’t give at least one uppercase letter, number and length six then it will not take the input. 
+	-I integrate with an external API (server side of this website: https://doctors-porta.vercel.app) to fetch and display data, also use date selection to filter only that day’s data. 
