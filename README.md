@@ -13,19 +13,19 @@ This is a dental clinic’s client side website where people can see the service
 - I use form with input validation for sign-up and log-in, suppose if user gave don’t give at least one uppercase letter, number and length six then it will not take the input. 
 - I integrate with an external API (server side of this website: https://doctors-porta.vercel.app) to fetch and display data, also use date selection to filter only that day’s data. 
 
-### Coding language and platforms:
-- Tailwind: I use tailwind CSS framework in my project for make user interfaces quickly and efficiently, it also customizable and make it easy to create responsive design.
-- React: I use React JS library in my project as I have learned this through my course and it can to create a fast, flexible, and maintainable user interface that provides a smooth user experience. 
-- React Router Dom: As I use react library, I use React Router Dom to route one page to another in this website.
-- Firebase: Firebase provides a simple and easy-to-use authentication API, which I used to implement log-in and sign-up functionality in my project.
-- Mongo dB: I use MongoDB to create data for my back-end server side website.
-- Vs code: I do all my code in Visual Studio Code as it is a free and open-source source-code editor.
-- Netlify: I published my website (React App (redoan-dentistry.netlify.app)) through Netlify as it is easy to use and free.
-- Github: I make a Github repository to push all my code and show my code to others by giving repository link. 
-- Figma: I do my initial design for my website in Figma. 
-- Vercel: I published my back-end server website (https://doctors-porta.vercel.app) through Vercel so that I can use that as API to fetch data in my website.
+## Coding language and platforms:
+- **Tailwind:** I use tailwind CSS framework in my project for make user interfaces quickly and efficiently, it also customizable and make it easy to create responsive design.
+- **React:** I use React JS library in my project as I have learned this through my course and it can to create a fast, flexible, and maintainable user interface that provides a smooth user experience. 
+- **React Router Dom:** As I use react library, I use React Router Dom to route one page to another in this website.
+- **Firebase:** Firebase provides a simple and easy-to-use authentication API, which I used to implement log-in and sign-up functionality in my project.
+- **Mongo dB:** I use MongoDB to create data for my back-end server side website.
+- **Vs code:** I do all my code in Visual Studio Code as it is a free and open-source source-code editor.
+- **Netlify:** I published my website (React App (redoan-dentistry.netlify.app)) through Netlify as it is easy to use and free.
+- **Github:** I make a Github repository to push all my code and show my code to others by giving repository link. 
+- **Figma:** I do my initial design for my website in Figma. 
+- **Vercel:** I published my back-end server website (https://doctors-porta.vercel.app) through Vercel so that I can use that as API to fetch data in my website.
 
-### Plane for future:
+## Plane for future:
 - Add doctor/authority as admin who can be able maintain all data.
 - Add a page where client can see all their previous and booked appointment data.
 - Add readable option by online assistance for disability people.
