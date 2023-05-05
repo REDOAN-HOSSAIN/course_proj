@@ -1,7 +1,7 @@
+# Live Website link: 
+website :  (https://redoan-dentistry.netlify.app/)
 # Github repository link: 
 repository :  (https://github.com/REDOAN-HOSSAIN/course_proj)
-# Website link: 
-website :  (https://redoan-dentistry.netlify.app/)
 # Dentistry a dental clinic website
 This is a dental clinic’s client side website where people can see the services, know about the clinic and book appointment for taking services from Dentistry. When they book appointment they are able to select appointment date, then they will get the available services and spaces for what they want to book appointment through this website. One client can book appointment in same day and for same service just one time. Client need to sign up and then log in to the website.  
 # Brief
@@ -20,7 +20,7 @@ This is a dental clinic’s client side website where people can see the service
 - **Firebase:** Firebase provides a simple and easy-to-use authentication API, which I used to implement log-in and sign-up functionality in my project.
 - **Mongo dB:** I use MongoDB to create data for my back-end server side website.
 - **Vs code:** I do all my code in Visual Studio Code as it is a free and open-source source-code editor.
-- **Netlify:** I published my website (React App (redoan-dentistry.netlify.app)) through Netlify as it is easy to use and free.
+- **Netlify:** I published my website (https://redoan-dentistry.netlify.app/) through Netlify as it is easy to use and free.
 - **Github:** I make a Github repository to push all my code and show my code to others by giving repository link. 
 - **Figma:** I do my initial design for my website in Figma. 
 - **Vercel:** I published my back-end server website (https://doctors-porta.vercel.app) through Vercel so that I can use that as API to fetch data in my website.
