@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-//import Banner from '../Home/Banner/Banner';
 import login from '../../assets/images/login.png';
 import PrimaryButton from '../../components/PrimaryButton/PrimaryButton';
 import InfoCards from '../Home/InfoCards/InfoCards';
