@@ -1,5 +1,7 @@
-# Github repository link: REDOAN-HOSSAIN/course_proj (github.com)
-# Website link: React App (redoan-dentistry.netlify.app)
+# Github repository link: 
+[repository : ](https://github.com/REDOAN-HOSSAIN/course_proj)
+# Website link: 
+[website : ](https://redoan-dentistry.netlify.app/)
 # Dentistry a dental clinic website
 This is a dental clinic’s client side website where people can see the services, know about the clinic and book appointment for taking services from Dentistry. When they book appointment they are able to select appointment date, then they will get the available services and spaces for what they want to book appointment through this website. One client can book appointment in same day and for same service just one time. Client need to sign up and then log in to the website.  
 # Brief
